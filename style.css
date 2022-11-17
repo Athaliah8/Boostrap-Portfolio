@@ -1,3 +1,28 @@
 /* * {
     outline: 2px indigo solid;
 } */
+
+.mb-4 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 52px;
+    padding-top: 40px;
+}
+
+.hero{
+
+    background-image: url("./images/Header-llustration-desktop.svg");
+    background-repeat: no-repeat;
+  background-size: cover;
+   background-position: top right;
+ max-height: 180vh;
+  padding: 100px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom-left-radius: 70px;
+  gap: 12px;
+  position: relative;
+}
