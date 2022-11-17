@@ -29,3 +29,13 @@
 .about {
   background: url("./images/about-me-left.svg") no-repeat top 20% left, url("./images/about-me-right.svg") no-repeat top -60px right;
 }
+
+.contact {
+  background: white url("./images/contact.png") no-repeat center center;
+  padding-top: 30%;
+}
+
+footer {
+  background: white url("./images/Social\ Media\ \(1\).png") no-repeat center center;
+  padding-top: 30px;
+}
