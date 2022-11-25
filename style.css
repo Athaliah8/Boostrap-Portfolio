@@ -1,6 +1,6 @@
-/* * {
+* {
     outline: 2px indigo solid;
-} */
+}
 
 .mb-4 {
     font-family: 'Inter', sans-serif;
@@ -27,7 +27,7 @@
 }
 
 .about {
-  background: url("./images/about-me-left.svg") no-repeat top 20% left, url("./images/about-me-right.svg") no-repeat top -60px right;
+  background: url("./images/about-me-left.svg") no-repeat top left, url("./images/about-me-right.svg") no-repeat top right;
 }
 
 .contact {
